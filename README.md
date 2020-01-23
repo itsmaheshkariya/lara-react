@@ -1,11 +1,21 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+# Laravel React Boilerplate
+## Download
+```git clone https://github.com/maheshkareeya/lara-react.git```
+```cd lara-react```
+## Install NPM Dependencies 
+```npm install```
+## Install Composer Dependencies 
+```composer install```
+## React Run Dev
+```npm run dev```
+## Start Project
+```php artisan serve```
+## Click bellow for frontend
+http://localhost:8000
+## For API through Postman
+http://localhost:8000/api
+## Demo 
+![Screenshot 2020-01-22 at 8 26 54 PM](https://user-images.githubusercontent.com/16520789/73008307-509e6200-3e34-11ea-9c39-4517a4f96946.png)
 
 ## About Laravel
 
